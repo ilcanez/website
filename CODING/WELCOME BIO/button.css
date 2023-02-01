@@ -1,0 +1,13 @@
+.myButton {
+    background-color: rgb(223, 84, 137);
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 10px;
+   
+    margin-top: 30px;
+    
+  }
